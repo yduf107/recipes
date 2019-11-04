@@ -3,3 +3,4 @@
 instructions
 
 - add water
+-salt
