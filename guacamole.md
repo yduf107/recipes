@@ -1,5 +1,2 @@
-# Ingredient
+# Indegradient
 -avocado
--lime
--salt
--water
